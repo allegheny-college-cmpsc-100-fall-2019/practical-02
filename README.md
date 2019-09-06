@@ -18,6 +18,14 @@ In this practical session, we focus on writing our initial Java program, the "He
 * [The "Hello, World!" Java program](#the-helloworld-java-program)
 * [`commit`ing your code](#commiting-your-code)
 
+## Cloning your repository
+
+- [ ] Open a terminal window. Keep this window open during all of today's assignment.
+- [ ] Add your SSH key to your terminal session so that you can prove your identity to GitHub.
+- [ ] In your terminal window, type `eval "$(ssh-agent -s)"` and press `Enter` to start the SSH Agent `process`
+- [ ] Next, add your key. Type `ssh-add ~/.ssh/id_rsa`
+* You may need to provide your password.
+
 ## Slack
 
 Before beginning the practical session, log into our shared [Slack](https://cmpsc100Fall2019.slack.com) workspace and navigate to the `#practicals` channel. Remain in this channel for the duration of the session to accept the assignment and ask and answer questions.
@@ -147,7 +155,7 @@ There should be a new file called `HelloWorld.class`. This is Java _bytecode_, a
 
 ### `commmit`ing your code
 
-- [ ] In the main folder of your repository, write a short 100-250 word reflection on your experience today in a file titled `reflection.md`.
+- [ ] In the main folder of your repository, create a short 100-250 word reflection on your experience today in a file titled `reflection.md`.
 * This reflection may address:
     * Areas where you still have questions
     * Issues you encountered and how you solved them
