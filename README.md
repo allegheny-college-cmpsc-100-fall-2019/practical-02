@@ -145,7 +145,13 @@ There should be a new file called `HelloWorld.class`. This is Java _bytecode_, a
 
 - [ ] Review the steps for creating the "Hello, World" program [above](#the-helloworld-java-program) and call a TL or the professor over.
 
-### `Commmit`ing your code
+### `commmit`ing your code
+
+- [ ] In the main folder of your repository, write a short 100-250 word reflection on your experience today in a file titled `reflection.md`.
+* This reflection may address:
+    * Areas where you still have questions
+    * Issues you encountered and how you solved them
+    * Is this your first time writing code at all? Have you written Java before? Depending on your experience with the practice of development, think about the level of difficulty here. What does it mean that this exercise was difficult or simple? How do you feel about the level of difficulty in this course so far?
 
 - [ ] Be sure you're in the repository folder and type `git add .` to stage all of the files in your repository.
 * After this resolves, all new and changes files have been _staged_ for transmission to GitHub.
