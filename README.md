@@ -95,6 +95,7 @@ public class HelloWorld {
 * This code represents the next building block of a Java program. What is it called?
 - [ ] In between the opening `{` and closing `}` brackets of the `main` declaration, type the following statement, indented two additional spaces:
 ```java
+    // This is a comment. Does it display?
     System.out.println("Hello, World!");
 ```
 
@@ -102,6 +103,7 @@ Your final program should look something like this:
 ```java
 public class HelloWorld {
   public static void main(String[] args) {
+    // This is a comment. Does it display?
     System.out.println("Hello, World!");
   }
 }
@@ -114,6 +116,10 @@ public class HelloWorld {
 * Make a note of the files in the directory.
 - [ ] Type `java HelloWorld.java`
 * What happens? If you encounter an error, call a TL or the professor over to help figure out what is happening.
+- [ ] Did you expect anything else to display? What happened to the line:
+```java
+    // This is a comment. Does it display?
+```
 - [ ] Type `ls` to list the contents of the directory.
 * Did anything change?
 
