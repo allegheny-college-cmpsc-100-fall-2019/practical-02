@@ -16,6 +16,7 @@ In this practical session, we focus on writing our initial Java program, the "He
 * [Github](#github)
 * [Installing Java](#installing-java)
 * [The "Hello, World!" Java program](#the-helloworld-java-program)
+* [`commit`ing your code](#commiting-your-code)
 
 ## Slack
 
