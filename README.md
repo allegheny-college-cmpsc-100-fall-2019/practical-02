@@ -150,6 +150,7 @@ There should be a new file called `HelloWorld.class`. This is Java _bytecode_, a
 - [ ] Be sure you're in the repository folder and type `git add .` to stage all of the files in your repository.
 * After this resolves, all new and changes files have been _staged_ for transmission to GitHub.
 - [ ] Type `git commit -m "Submitting code."` to `commit` your code with the helful message that you're submitting the code.
+- [ ] Get Prof. Luman's attention before your do this step. We'll have a look at some more magic.
 - [ ] To transmit, type `git push origin master`.
 - [ ] When you've completed this step, message Professor Luman on our class [Slack](http://cmpsc100fall2019.slack.com).
 * There's a reward in it for you: the coveted `build passing` badge!
