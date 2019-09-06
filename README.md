@@ -128,6 +128,8 @@ This is because we used one side of the Java _compiler_ to run our program; it m
 
 There should be a new file called `HelloWorld.class`. This is Java _bytecode_, a "compiled" version of your program ready to run in what developers refer to as a "staging" environment.
 
+- [ ] Turn to page 39 in your textbook and call the professor over to have a brief discussion about what we see in the diagram at the top of the page.
+
 - [ ] You can test your binary by typing `java HelloWorld` in the terminal window.
 * If you receive the expected output, congratulations! You're done developing your code for this exercise. Proceed on.
 * If you encountered errors, call a TL or the professor over to discuss and figure out what is happening.
